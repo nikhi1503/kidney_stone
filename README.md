@@ -109,5 +109,13 @@ Testing was carried out at multiple levels:
 
 **Developed by:** Dept. of Computer Science & Engineering  
 **Institution:** D.A.C.G. Govt. Polytechnic, Chikkamagaluru  
-**Academic Year:** 2021–2022
+**Academic Year:** 2021–2022  
+
+**Contributors:**
+- Nikhil S G  
+- Poornachandra  
+- Prathik  
+- Puneeth  
+- Sanjushree
+
 
