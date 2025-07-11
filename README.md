@@ -83,6 +83,8 @@ Testing was carried out at multiple levels:
 - Preprocessed images
 - Segmented output with edge detection
 - CNN output for multiple ultrasound samples
+  
+![Kidney Stone Output](images/output_sample.png)
 
 ---
 
